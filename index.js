@@ -1,2 +1,2 @@
 console.log("helo world");
-<h1>hello world</h1>;
+<h1>hello to the whole wold</h1>;
